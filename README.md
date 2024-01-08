@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) starter for [IBM Carbon Design System](https://github.com/carbon-design-system/carbon)
 
-## Getting Started
+## How to use
 
-First, run the development server:
+You can spin a new NextJS app  integrated with IBM Carbon Desgin System  easily by running a below command
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+`npx create-next-app --example ibm-carbon-design-system carbon-nextjs-app`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`yarn create next-app --example ibm-carbon-design-system carbon-nextjs-app`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+`pnpm create next-app --example ibm-carbon-design-system carbon-nextjs-app`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Replace carbon-nextjs-app with your actual project name for your application
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Learn about the IBM Design Language
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Carbon expresses the [IBM Design Language](https://www.ibm.com/design/language/) in product and delivers it through tools for designers and developers including guidance, tooling, components, and support. Take the time to read the site so that you fully understand what drives IBM’s design philosophy and principles, and can make informed decisions in your product work.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Stay Informed
+Discover Carbon’s latest updates and future plans on the [Releases](https://carbondesignsystem.com/all-about-carbon/releases) page.
 
-## Deploy on Vercel
+If you have questions, explore the various ways to [contact the Carbon Team](https://carbondesignsystem.com/help/contact-us).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Uncover the Advantages
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Learn more about the [benefits of using Carbon](https://carbondesignsystem.com/all-about-carbon/who-uses-carbon/) as a developer, and how Carbon benefits all members of a product team.
+
+`
+
+
+
